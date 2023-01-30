@@ -1,0 +1,12 @@
+2023/01/30 16:51:29 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:37
+2023/01/30 16:51:29 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/ssl-bundle.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/ssl-bundle.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/01/30 16:55:26 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:37
+2023/01/30 16:55:26 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/ssl-bundle.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/ssl-bundle.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/01/30 17:05:22 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:37
+2023/01/30 17:05:22 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/ssl-bundle.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/ssl-bundle.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/01/30 17:51:27 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:37
+2023/01/30 17:51:27 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/ssl-bundle.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/ssl-bundle.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/01/30 18:18:54 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:36
+2023/01/30 18:18:54 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/ssl-bundle.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/ssl-bundle.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2023/01/30 18:20:41 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:37
+2023/01/30 18:20:41 [emerg] 1#1: SSL_CTX_use_certificate("/etc/nginx/ssl/cert.pem") failed (SSL: error:140AB18F:SSL routines:SSL_CTX_use_certificate:ee key too small)
